@@ -33,7 +33,7 @@
 
 ### Задание 3
 
-![Скриншот1](https://github.com/sergeysprdnv/screenshots/blob/main/rmq3-1.png0)
+![Скриншот1](https://github.com/sergeysprdnv/screenshots/blob/main/rmq3-1.png)
 
 root@rmq01:~# rabbitmqctl cluster_status
 Cluster status of node rabbit@rmq01 ...
